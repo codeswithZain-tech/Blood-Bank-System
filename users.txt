@@ -1,0 +1,9 @@
+admin,admin123,Admin
+staff1,staff123,Staff
+staff2,staff456,Staff
+1001,donor123,Donor
+1002,donor456,Donor
+1003,donor789,Donor
+1004,donor111,Donor
+1005,donor222,Donor
+1006,donor333,Donor
