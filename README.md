@@ -29,4 +29,4 @@ A comprehensive C++ application for managing blood bank operations in a hospital
 - OOP principles (Inheritance, Polymorphism)
 
 ## Author
-- ZAIN KASHIF
+ ZAIN KASHIF
