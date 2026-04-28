@@ -28,5 +28,5 @@ A comprehensive C++ application for managing blood bank operations in a hospital
 - File I/O for data persistence
 - OOP principles (Inheritance, Polymorphism)
 
-  ## Author
-  ZAIN KASHIF
+## Author
+- ZAIN KASHIF
